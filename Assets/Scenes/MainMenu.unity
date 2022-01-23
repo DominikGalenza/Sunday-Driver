@@ -171,6 +171,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   highScoreText: {fileID: 1385694949}
   energyText: {fileID: 545567068}
+  playButton: {fileID: 2110482674}
   androidNotificationsHandler: {fileID: 203534874}
   iOSNotificationsHandler: {fileID: 203534875}
   maxEnergy: 5

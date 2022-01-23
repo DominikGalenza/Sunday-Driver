@@ -167,6 +167,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e08b238c10357a94bb7500ded55b5e39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  highScoreText: {fileID: 1385694949}
+  energyText: {fileID: 545567068}
+  maxEnergy: 5
+  energyRachargeDuration: 1
 --- !u!1 &311905631
 GameObject:
   m_ObjectHideFlags: 0
